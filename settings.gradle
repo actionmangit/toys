@@ -1,3 +1,4 @@
 rootProject.name = 'toys'
 
 include 'completable-future'
+include 'swagger'

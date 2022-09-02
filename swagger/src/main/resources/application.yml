@@ -1,0 +1,9 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+
+spring-fox:
+  documentation:
+    enable: true
+    auto-startup: true
